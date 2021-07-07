@@ -1,3 +1,6 @@
+"""For an integer N find the number of trailing zeroes in N!."""
+
+
 class Solution:
     def trailingZeroes(self, N):
         if(N < 0):
